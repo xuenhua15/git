@@ -1,0 +1,5 @@
+scrapy==1.5.1
+pymysql
+redis
+scrapy-redis
+requests
